@@ -1,0 +1,22 @@
+DBMS Class 01: 
+-----------------------------------------------------------------------------------------------------
+-> Characteristics of Data and Information.
+-> Terms of CIA details knowledge cover.
+
+
+row/traple 
+column/Attribute
+cell
+
+
+sql/NoSQL details janu. 
+
+
+
+-> Distributed DataBase shomporke jante hobe. As like YouTube. paging algorithm niye jano. Distributed DBMS niye janu. 
+
+-> Data Type
+
+Maria Mujo
+God father
+
