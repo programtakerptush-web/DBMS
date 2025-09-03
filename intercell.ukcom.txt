@@ -1,0 +1,30 @@
+intercell.uk/com
+
+Habibur Rahman
+Ahsanulah University
+BSc in CSE and MS in MIS
+
+-> debutVideoCaptureSoftware.
+
+-> design
+-> Development
+-> Application
+-> Platform
+
+Frontend er 3ta part.
+Structure and Content -> HTML
+Presentation -> CSS
+Behaviour -> JavaScript
+
+Web ki??
+system
+document
+connect
+read with internet
+
+-> sailslimited
+-> intercell.online
+
+-> table
+-> input
+ei 2ta tag er use besi hoye thake.
