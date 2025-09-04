@@ -1,0 +1,25 @@
+class code: c4pbp5n3
+Mehrin.Anannya
+Asst. Professor JU.
+
+web page
+web server
+web pages 
+
+Desktop Application
+Mobile Application
+Web Application
+
+Software Packages 
+------------------------
+-> Customised Software --> Any Client requirement Software. 
+-> Generic Software  --> MS Office.
+
+
+This is the circle view just type the information on this area. 
+
+Internet(The world)  into Extranet(Suppliers, Customers,etc) into Intranet(The organization) 
+
+Internet:: The inernet creates connections between computers around the word.
+Extranet:: An extranet creates connections beyond(or outside) an organization. 
+Intranet:: An intranet creates connections inside organization. 
